@@ -31,7 +31,7 @@ Este projeto foi uma experiência incrível para trabalhar com as IAs.
 
 ### Exemplos e Insigths
 
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Vídeo (Avatar Virtual)](/exemplos/IA GENERATIVA.mp4)
 
 ## Links Interessantes
 
